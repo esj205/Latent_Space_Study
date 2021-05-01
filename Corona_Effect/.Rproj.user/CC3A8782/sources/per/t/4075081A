@@ -1,0 +1,32 @@
+{
+    "id": "4075081A",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1609674532321.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "expression": "BQ",
+        "caption": "BQ",
+        "totalObservations": 1000,
+        "displayedObservations": 1000,
+        "variables": 30,
+        "cacheKey": "183BAB1B",
+        "object": "BQ",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=BQ&cache_key=183BAB1B&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3474018177046963301,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609674532321,
+    "read_only": false,
+    "read_only_alternatives": []
+}
